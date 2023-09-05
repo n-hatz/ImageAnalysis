@@ -1,2 +1,3 @@
-# ImageProcessing
-Content based image retrieval
+# Image Analysis
+Content based image retrieval roughly based on the paper "Multimedia Retrieval through Unsupervised Hypergraph-based
+Manifold Ranking" by Pedronette et al.
